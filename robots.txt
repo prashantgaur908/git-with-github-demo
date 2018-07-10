@@ -10,3 +10,5 @@ Disallow:
 
 
 ## This is  my first practical on git pull command ... 
+## This is my first practical to git push command...!!
+## Done by Prashant Gaur..!!
